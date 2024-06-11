@@ -1,4 +1,4 @@
-# 🚗 Car Rental Service Demo
+# 🚗 DriveRentals : A Car Rental Service 
 
 Welcome to the Car Rental Service Demo! This project is a simple car rental service demo built using HTML, CSS, JavaScript, and MySQL.
 
@@ -40,7 +40,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/car-rental-service-demo.git
+    git clone https://github.com/MangeshRShakkarwar/DriveRentals.git
     cd car-rental-service-demo
     ```
 
